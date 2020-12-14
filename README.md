@@ -1,4 +1,4 @@
-### Hi there :v:, Daniel Safonov
+### Hi there :v:, I am Daniel Safonov :ocean:
 #### You can find magic here :milky_way:
 I am front-end developer, my stack is based on React & Co.
 
