@@ -1,8 +1,6 @@
 ### Hi there :v:, I am Daniel Safonov :ocean:
 #### You can find magic here :milky_way:
-I am front-end developer, my stack is based on React & Co.
-
-Skills: REACT / REDUX / REDUX-SAGA
+I am Lead Software Enginner.
 
 - 📫 How to reach me: You can write me on any social platform below: 
 
